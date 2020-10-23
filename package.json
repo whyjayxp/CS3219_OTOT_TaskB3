@@ -1,0 +1,27 @@
+{
+  "name": "CS3219_TaskB3",
+  "version": "1.0.0",
+  "description": "Submission for CS3219 OTOT Assignment Task B3",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whyjayxp/CS3219_OTOT_TaskB3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whyjayxp/CS3219_OTOT_TaskB3/issues"
+  },
+  "homepage": "https://github.com/whyjayxp/CS3219_OTOT_TaskB3#readme",
+  "devDependencies": {
+    "serverless-offline": "^6.8.0"
+  },
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mongoose": "^5.10.9"
+  }
+}
